@@ -1,0 +1,257 @@
+/* Start Client Stories CSS */
+
+.page-id-347 strong {
+    font-family: 'FuturaPT-Bold';
+}
+
+.clientlogo {
+    position: relative;
+    z-index: 999999;
+}
+
+.clientheading {
+    font-size: 75px;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'FuturaPT-Medium';
+    letter-spacing: 2.5px;
+}
+
+.bookquote {
+    font-size: 36px;
+    color: #000000;
+    text-align: center;
+    font-family: 'FuturaPT-Book';
+    line-height: 42px;
+    letter-spacing: 1.5px;
+}
+
+.redname {
+    text-align: center;
+    padding: 13px 10px;
+    border: 2px solid #fc1e00;
+    max-width: 149px;
+    line-height: 19px;
+    font-family: 'FuturaPT-Medium';
+    text-transform: uppercase;
+    color: #fc1e00;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+
+.rednameforce {
+    width: 149px;
+}
+
+.titlequote {
+    font-family: 'FuturaPT-Bold';
+    text-transform: uppercase;
+}
+
+.blockwhite {
+    color: #fff;
+}
+
+.rightclear {
+    float: right;
+    clear: both;
+}
+
+.max210 {
+    max-width: 210px;
+}
+
+.marginzero {
+    margin: 0;
+}
+
+.black-btn {
+    width: 350px;
+    max-width: 100%;
+    background: #000;
+    border: none;
+    padding: 2rem 2rem !important;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 1.25;
+}
+
+.red-btn {
+    width: 350px;
+    max-width: 100%;
+    background: #f81d00;
+    border: none;
+    padding: 2rem 2rem !important;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 1.25;
+}
+
+.gray-btn {
+    font-family: 'FuturaPT-Bold';
+    font-size: 16px;
+    letter-spacing: 2px;
+    line-height: 1;
+    border-radius: 0;
+    border: none;
+    color: #4d4d4d;
+    background: #efefef;
+    padding: 0.7rem 1.25rem;
+    padding-top: 1rem;
+}
+
+.banner .gray-btn {
+    border: 0;
+    background: #E6E7E8;
+    cursor: pointer;
+    padding: 0 20px;
+    line-height: 50px;
+    height: 50px;
+    font-family: 'FuturaPT-Bold';
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #000;
+    letter-spacing: 0;
+}
+
+.banner .gray-btn:hover {
+    background: #444;
+    color: #FFF;
+}
+
+.save-btn {
+    border: 1px solid #d19216;
+    font-size: 12px;
+    line-height: 1;
+    padding: 10px 0px;
+    width: 48px;
+    border-radius: 500%;
+    color: #d19216;
+    background: #fff;
+    position: relative;
+    z-index: 9999;
+    left: 54px;
+    top: 22px;
+}
+
+.save-btn b {
+    font-size: 12px;
+    font-family: 'FuturaPT-Bold';
+}
+
+/* End Client Stories CSS */
+
+/* Start Client Stories CSS Round 2 */
+
+.testycontent {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.citystate {
+    font-family: FuturaPT-Book !important;
+	color: #808080 !important;
+	font-size: 22px !important;
+}
+
+.testynames {
+	font-family: 'FuturaPT-Medium' !important;
+	text-transform: uppercase !important;
+	font-size: 35px;
+    margin: 15px 0;
+}
+
+/* End Client Stories CSS Round 2 */
+
+.orderform input {
+padding: 5px 10px !important;
+line-height: 20px !important;
+margin-bottom: 15px !important;
+width:  100% !important;
+max-width: 580px !important;
+font-size: 15px !important;
+border-radius: 5px !important;
+border: 1px solid #dcdcdc !important;
+}
+
+#mr-field-element-383782619377 {
+  background-color: #f90000 !important;
+  border: none !important;
+  font-size: 26px !important;
+  color: #fff !important;
+  font-family: 'FuturaPT-Bold' !important;
+  padding: 20px 0 !important;
+  margin-top: 15px !important;
+}
+
+.orderform form {
+    margin: 0 auto;
+    max-width: 580px;
+}
+
+div.moonray-form-element-wrapper.moonray-form-element-wrapper-alignment-left.moonray-form-input-type-submit {
+    text-align: center !important;
+}
+
+div.moonray-form-element-wrapper.moonray-form-element-wrapper-alignment-left.moonray-form-input-type-checkbox {
+ max-width: 580px !important; 
+}
+
+div.moonray-form-element-wrapper.moonray-form-element-wrapper-alignment-left.moonray-form-input-type-checkbox {
+    margin: 0 auto;
+}
+
+input#mr-field-element-853386472212.moonray-form-input {
+    width: auto !important;
+    margin-top: 25px !important;
+}
+
+input#mr-field-element-859304036945.moonray-form-input {
+    width: auto !important;
+    margin-top: 25px !important;
+}
+
+div.moonray-form-element-wrapper.moonray-form-element-wrapper-alignment-left.moonray-form-input-type-checkbox a {
+    color: #000 !important;
+    text-decoration: underline !important;
+}
+
+body .vc_toggle_content, body .vc_toggle_title h4 {
+    font-family: FuturaPT-Book !important;
+}
+
+@media (max-width: 1200px) {
+    header .closingsoon {
+        line-height: 21px !important;
+    }
+}
+
+@media (max-width: 997px) {
+    .save-btn {
+        left: 5px;
+    }
+    header .closingsoon {
+        line-height: 21px !important;
+    }
+}
+
+@media (max-width: 767px) {
+	#mr-field-element-383782619377,
+	#mr-field-element-383782619377 {
+	    font-size: 17px !important;
+	}
+	.clientheading {
+	    font-size: 40px !important;
+	}
+	.red-btn,
+    .black-btn {
+        width: 100%;
+    }
+	.save-btn {
+        left: 15px;
+    }
+}

@@ -1,0 +1,193 @@
+/**********************************************************
+// Fixes
+**********************************************************/
+body.admin-bar .navbar-fixed-top { top: 32px; }
+
+.Header-Mobile {
+	margin-bottom: 0 !important;
+	display: none;
+	}
+
+body .vc_custom_1545452029299 a:focus {
+	outline: 0 !important;
+	text-decoration: none !important;
+	}
+
+body .moreclientsbutton a:hover { background: #393939 !important; }
+
+body .vc_custom_1438097164013 {
+  padding-top: 70px!important;
+}
+
+header .closingsoon { min-width: 417px; line-height: 39px!important; }
+
+body .YouCrave {
+	max-width: 770px;
+	margin: 0 auto;
+}
+
+body .Testimonials-Enroll-Button a.vc_general.vc_btn3 {
+	background: #f81d00;
+	color: #fff;
+	font-weight: bold;
+	font-size: 20px;
+	text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: 'FuturaPT-Bold';
+	display: none;
+}
+
+
+/**********************************************************
+// Media Queries
+**********************************************************/
+
+@media
+all and (max-width: 1200px),
+all and (max-device-width: 1200px)
+{	
+	header .spacer { display: none; 
+	}
+}
+@media
+all and (max-width: 800px),
+all and (max-device-width: 800px)
+{
+	.Header-Normal { display: none; }
+	.Header-Mobile { display: block; }
+
+	body .vc_custom_1469476546174 { padding: 0 !important; }
+	body .vc_custom_1550875919607 { padding: 30px 10px 50px 10px !important; }
+
+	.Mobile-BR br { display: none; }
+}
+
+@media
+all and (max-width: 768px),
+all and (max-device-width: 768px)
+{
+	/*body .vc_row-has-fill>.vc_column_container>.vc_column-inner*/
+	body .vc_col-has-fill>.vc_column-inner,
+	body .vc_row-has-fill+.vc_row-full-width+.vc_row>.vc_column_container>.vc_column-inner,
+	body .vc_row-has-fill+.vc_row>.vc_column_container>.vc_column-inner { padding: 20px 10px !important; }
+
+	body .vc_custom_1438097164013 { padding: 70px 10px 80px 10px !important; }
+	body .vc_custom_1438097164013 .wpb_wrapper > div[style] {
+		line-height: 40px !important;
+		font-size: 26px !important;
+		}
+
+	body .vc_custom_1437583051812 { padding: 40px 10px 20px 10px !important; }
+	body .vc_custom_1438097188024 { padding-top: 20px !important; }
+	body .checkarea .vc_column-inner { padding-top: 0 !important; }
+	body .vc_custom_1438097307402 { padding-bottom: 20px !important; }
+	body .vc_custom_1437583081813 { padding-top: 40px !important; }
+	body .vc_custom_1442936505870 { margin-top: 20px !important; }
+	body .vc_custom_1438097518451 { padding-bottom: 30px !important; }
+	body .vc_custom_1438098063656 { padding-top: 20px !important; }
+	body .vc_custom_1438198745450 { margin-top: 40px !important; }
+	body .vc_custom_1469474936585 { margin-top: 25px !important; margin-bottom: 25px !important; }
+	body .vc_custom_1436470971294 { margin-top: 25px !important; margin-bottom: 25px !important; }
+	body .vc_custom_1438098885922 { margin-bottom: 25px !important; }
+	body .vc_custom_1436884084824 { margin-top: 25px !important; }
+
+	body .vc_row-has-fill+.vc_row-full-width+.vc_row>.vc_column_container>.vc_column-inner.vc_custom_1469474793703 { padding: 0 !important; }
+	body #FP-Check-1 .vc_column-inner { padding: 0 !important; }
+
+	body .vc_row-has-fill.vc_custom_1442936505870>.vc_column_container>.vc_column-inner { padding: 0 !important; }
+
+	body .Content-Section,
+	body .Content-Section[style],
+	body .Content-Section p {
+		line-height: 40px !important;
+		font-size: 26px !important;
+		}
+	
+	body .vc_custom_1436884054230 .Content-Section p {
+		line-height: 30px !important;
+		font-size: 19px !important;
+		}
+
+	body .Content-Section span[style] {
+		line-height: 40px !important;
+		font-size: 25px !important;
+		}
+
+	body .moduletitle {
+		line-height: 40px !important;
+		font-size: 30px !important;
+		}
+
+	body .vc_empty_space { display: none !important; }
+	body .vc_custom_1442936505870 .vc_empty_space { display: block !important; }
+
+
+
+	body .vc_row-has-fill>.vc_column_container>.vc_column-inner.vc_custom_1469476546174 { padding: 0 !important; }
+
+	body .wpb_button,
+	body .wpb_content_element,
+	body ul.wpb_thumbnails-fluid>li { margin-bottom: 0 !important; }
+	body .wpb_single_image { margin-bottom: 10px !important; }
+	body .Header-Mobile.wpb_single_image { margin-bottom: 0 !important; }
+
+	body .Content-Section-Margin { margin-bottom: 15px; }
+	body .guestbio { margin-bottom: 40px !important; }
+	body .goldheading { margin-top: 15px !important; }
+
+	body .black-btn {
+		margin: 30px auto 0 auto !important;
+		max-width: 360px !important;
+		}
+
+	body .Mobile-Spacer { margin-bottom: 25px !important; }
+
+	body .vc_custom_1436390355942 { margin-top: 40px !important; }
+	body .titlesobigitbestupid { line-height: 100px !important; }
+
+	body .vc_custom_1436390317280 .vc_column-inner { display: none !important; }
+	
+	body .vc_custom_1438097864902 br { display: none; }
+	
+	body .isthisyou { margin-bottom: 30px !important; }
+	
+	body .Guest-Teachers p br { display: none; }
+	
+	body .vc_custom_1442936505870 { background-size: cover !important; }
+	body .bodyweightstable {
+		font-size: 30px;
+		line-height: 1.2em;
+		padding-left: 10px;
+		padding-right: 10px; 
+	}
+	
+	body .lisajamie p {
+		font-size: 20px !important;
+		line-height: 30px !important;
+	}
+	
+	body .checkarea, body .Teacher-Bios > div, body .HYL-Section {
+		margin: 45px 0;
+	}
+	
+	body .dinnercompanion > div {
+		margin: 60px 0;
+	}
+	
+	body .dinnercompanion > div:first-child {
+		margin-top: 0;
+	}
+	
+	body .Testimonials-Enroll-Button a.vc_general.vc_btn3 {
+		display: inline-block;
+	}
+	
+}
+
+@media
+all and (max-width: 600px),
+all and (max-device-width: 600px)
+{
+	#wpadminbar { position: fixed !important; }
+	body.admin-bar .navbar-fixed-top { top: 46px; }
+}
